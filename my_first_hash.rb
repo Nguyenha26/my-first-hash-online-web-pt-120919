@@ -32,6 +32,6 @@ def adding
 
 
 
-  shipping_manifest
+  shipping_manifest [ ]
 
 end
