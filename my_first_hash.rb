@@ -1,4 +1,4 @@
-def my_hash
+def my_hash(array)
   my_hash = {hash => "myhash"}
 
   
@@ -32,6 +32,6 @@ def adding
 
 
 
-  shipping_manifest [ ]
+  shipping_manifest
 
 end
