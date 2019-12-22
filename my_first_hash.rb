@@ -1,4 +1,4 @@
-def my_hash(array)
+def my_hash
   my_hash = {hash => "myhash"}
 
   
